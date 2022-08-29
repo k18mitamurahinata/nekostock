@@ -1,0 +1,83 @@
+@charset "UTF-8";
+/* CSS Document */
+.html{
+	font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, "sans-serif";
+}
+.head{
+	height:100px;
+	width: 100%;
+	left: 0px;
+	right: 0px;
+	top:0px;
+	background-color:black;
+	position: fixed;
+	color:white;
+}
+.blank1{
+	height:20px;
+}
+.blank2{
+	height:150px;
+	width:100%;
+}
+.blank3{
+	height:40px;
+	width:100%;
+}
+.blank4{
+	height:10px;
+	width:100%;
+}
+.blank5{
+	height:5px;
+	width:100%;
+}
+.title{
+	width:100%;
+text-align:left;
+	color:white;
+	font-size: 35px;
+}
+.intro{
+	color:black;
+	margin-right:auto;
+	margin-left:auto;
+	text-align:center;
+	width: 310px;
+}
+.imgarea{
+	margin-left:auto;
+	margin-right:auto;
+	width:250px;
+}
+.aroundimg{
+	width:100%;
+}
+.img{
+	width:100%;
+}
+.imgname{
+	font-size:20px;
+	font-weight:bolder;
+	font-style:italic;
+}
+.button{
+	margin-left:auto;
+	margin-right:auto;
+	height: 40px;
+	width:200px;
+	 background-color:lightgreen;
+}
+.download{
+	color:white;
+	font-size:20px;
+	text-decoration:none;
+	margin-right:auto;
+	margin-left:auto;
+	width:200px;
+	text-align:center;
+	
+}
+.term{
+	text-align:center;
+}
